@@ -1,6 +1,6 @@
 # Antigravity
 
-A browser-based action platformer where you control a powerful hero with flight and laser vision capabilities. Fight off alien invaders and survive as long as you can!
+A fast, browser-based action platformer where you control a powerful hero with flight and laser vision. Fight waves of alien invaders, upgrade your abilities, and survive as long as you can — built with the Antigravity Google AI IDE to showcase the capabilities of the Gemini 3 coding agent.
 
 ## 🎮 How to Play
 
